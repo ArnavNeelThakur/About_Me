@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arzo97
+- 👋 Hi, I’m Arnav
 - 👀 I’m interested in Software Engineering and Entrepreneurship.
 - 🌱 I’m currently learning Python, MySQL.
 - 💞️ I’m looking to collaborate on small beginner-intermediate projects.

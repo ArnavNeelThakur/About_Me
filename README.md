@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnav
 - 👀 I’m interested in Software Engineering and Entrepreneurship.
-- 🌱 I’m currently learning Python, MySQL.
+- 🌱 I’m currently learning Python, MySQL, C and C++.
 - 💞️ I’m looking to collaborate on small beginner-intermediate projects.
-- 📫 Reach me via my email: business.arxnav@gmail.com or through my instagram: https://instagram.com/arzo97x
+- 📫 Reach me via my email: business.arxnav@gmail.com or through my instagram: https://instagram.com/arnavfloweather
